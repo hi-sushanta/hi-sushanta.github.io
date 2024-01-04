@@ -1,9 +1,11 @@
 ---
 title: About Sushanta
-excerpt: "Sushanta is a starting point for [Sushanta](https://hi-sushanta.github.io) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Hi, I’m Sushanta 🤗 👋🏻
+Welcome to my blog, new readers and old! I hope you find this blog helpful in your journey of learning about deep learning and computer vision."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+Hi, I’m Sushanta 🤗 👋🏻
+Welcome to my blog, new readers and old! I hope you find this blog helpful in your journey of learning about deep learning and computer vision.
 
 {% include button.html text="GitHub" icon="github" link="https://github.com/hi-sushanta" color="#0366d6" %} {% include button.html text="Blog" link="https://hiwhy.io/" color="#f68140" %} {% include button.html text="Threads" icon="threads" link="https://www.threads.net/@hi_chiai" color="#0d94e7" %}
 
