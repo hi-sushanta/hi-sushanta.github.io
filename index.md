@@ -9,5 +9,5 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 
 ## All Post
 
-- Available as a **theme gem** and **GitHub Pages** theme 
+- [Master ***Matplotlib***: A ***Step-by-Step*** Guide for Beginners to Experts](https://hiwhy.io/matplotlib-complete-guide)
 - Clear and elegant design that can be used out of the box or as solid starting point
