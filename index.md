@@ -1,10 +1,10 @@
 ---
 title: About Sushanta
-excerpt: "Hi, I’m Sushanta 🤗 👋🏻
+excerpt: "Hi, I’m Sushanta 👋🏻
 Welcome to my blog, new readers and old! I hope you find this blog helpful in your journey of learning about deep learning and computer vision."
 ---
 
-Hi, I’m Sushanta 🤗 👋🏻
+Hi, I’m Sushanta  👋🏻
 Welcome to my blog, new readers and old! I hope you find this blog helpful in your journey of learning about deep learning and computer vision.
 
 {% include button.html text="GitHub" icon="github" link="https://github.com/hi-sushanta" color="#0366d6" %} {% include button.html text="Blog" link="https://hiwhy.io/" color="#f68140" %} {% include button.html text="Threads" icon="threads" link="https://www.threads.net/@hi_chiai" color="#0d94e7" %}
