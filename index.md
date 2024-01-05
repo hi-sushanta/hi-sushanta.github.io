@@ -7,7 +7,6 @@ Welcome to my blog, new readers and old! I hope you find this blog helpful in yo
 
 {% include button.html text="GitHub" icon="github" link="https://github.com/hi-sushanta" color="#FF004D" %} {% include button.html text="Blog" link="https://hiwhy.io/" color="#FF004D" %}  {% include button.html text="Threads" icon="Threads" link=https://www.threads.net/@hi_chiai" color="#FF004D" %}
 
-<img src="threads-app-icon.svg" width="50" height="50">
 
 ## All Post
 
