@@ -5,6 +5,14 @@ excerpt: "Welcome to my blog, new readers and old! I hope you find this blog hel
 
 Welcome to my blog, new readers and old! I hope you find this blog helpful in your journey of learning about deep learning and computer vision.
 
+<nav class="nav">
+  <ul>
+    <li><a href="https://www.example1.com">Home</a></li>
+    <li><a href="https://www.example2.com">About</a></li>
+    <li><a href="https://www.example3.com">Contact</a></li>
+  </ul>
+</nav>
+
 [![""](icons8-github.svg)](https://github.com/hi-sushanta) [![""](icons8-linkedin.svg)](https://www.linkedin.com/in/sushanta-das-/) [![""](icon-threads.png)](https://www.threads.net/@hi_chiai) [![""](icon-blog.png)](https://hiwhy.io/)
 
 ## All Post
