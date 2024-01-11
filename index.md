@@ -2,8 +2,9 @@
 title: Hi, I’m Sushanta  👋🏻
 excerpt: "Welcome to my blog, new readers and old! I hope you find this blog helpful in your journey of learning about deep learning and computer vision."
 ---
-
+!["Author Image"](chi.png)
 Welcome to my blog, new readers and old! I hope you find this blog helpful in your journey of learning about deep learning and computer vision.
+
 
 [![""](icons8-github.svg)](https://github.com/hi-sushanta) [![""](icons8-linkedin.svg)](https://www.linkedin.com/in/sushanta-das-/) [![""](icon-threads.png)](https://www.threads.net/@hi_chiai) [![""](icon-blog.png)](https://hiwhy.io/)
 
