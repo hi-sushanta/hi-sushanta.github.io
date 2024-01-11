@@ -2,7 +2,7 @@
 title: Hi, I’m Sushanta  👋🏻
 excerpt: "Welcome to my blog, new readers and old! I hope you find this blog helpful in your journey of learning about deep learning and computer vision."
 ---
-!["Author Image"](chi.png)
+<img src="chi.png"  width=50% height=50%>
 Welcome to my blog, new readers and old! I hope you find this blog helpful in your journey of learning about deep learning and computer vision.
 
 
