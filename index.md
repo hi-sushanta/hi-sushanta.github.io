@@ -3,8 +3,8 @@ title: Hi, I’m Sushanta  👋🏻
 excerpt: "Welcome to my blog, new readers and old! I hope you find this blog helpful in your journey of learning about deep learning and computer vision."
 ---
 
-<div align = "center" style="margin-right: 30px; margin-left:30px; margin-top:30px; margin-bottom:30px;">
-    <img src="chi-png.png" class = "center" width="100%" height="Auto"/>
+<div align = "center" style="margin-right: 5px; margin-left:5px; margin-top:10px; margin-bottom:10px;">
+    <img src="chi-png.png" class = "center" width="100%" height="100"/>
 </div>
 
 
