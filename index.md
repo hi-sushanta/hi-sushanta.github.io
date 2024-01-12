@@ -3,14 +3,7 @@ title: Hi, I’m Sushanta  👋🏻
 excerpt: "Welcome to my blog, new readers and old! I hope you find this blog helpful in your journey of learning about deep learning and computer vision."
 ---
 
-<style>
-.author {
-  width: 100%;
-  height: Auto;
-}
-</style>
-
-<div class = "main" align = "center" style="margin-right: 30px;">
+<div class = "main" align = "center" style="margin-right: 10px;" style="margin-left:10px";>
     <img src="chi.png", class="author" width="100%" height="Auto"/>
 </div>
 
