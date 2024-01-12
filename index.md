@@ -4,7 +4,7 @@ excerpt: "Welcome to my blog, new readers and old! I hope you find this blog hel
 ---
 
 <div align = "center" style="margin-right: 30px; margin-left:30px; margin-top:30px; margin-bottom:30px;">
-    <img src="chi-jpeg.jpeg" class = "center" width="100%" height="250"/>
+    <img src="chi-png.png" class = "center" width="100%" height="250"/>
 </div>
 
 
