@@ -4,7 +4,7 @@ excerpt: "Welcome to my blog, new readers and old! I hope you find this blog hel
 ---
 
 <div align = "center" style="margin-right: 30px;">
-    <img src="chi.png" width="350" height="250"/>
+    <img src="chi.png" width="450" height="250"/>
 </div>
 
 Welcome to my blog, new readers and old! I hope you find this blog helpful in your journey of learning about deep learning and computer vision.
