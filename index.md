@@ -3,12 +3,11 @@ title: Hi, I’m Sushanta  👋🏻
 excerpt: "Welcome to my blog, new readers and old! I hope you find this blog helpful in your journey of learning about deep learning and computer vision."
 ---
 
+Welcome to my blog, new readers and old! I hope you find this blog helpful in your journey of learning about deep learning and computer vision.
+
 <div align = "center" style="margin-right: 5px; margin-left:5px; margin-top:10px; margin-bottom:10px;">
     <img src="chi.png" class = "center" width="100%" height="100%"/>
 </div>
-
-
-Welcome to my blog, new readers and old! I hope you find this blog helpful in your journey of learning about deep learning and computer vision.
 
 
 [![""](icons8-github.svg)](https://github.com/hi-sushanta) [![""](icons8-linkedin.svg)](https://www.linkedin.com/in/sushanta-das-/) [![""](icon-threads.png)](https://www.threads.net/@hi_chiai) [![""](icon-blog.png)](https://hiwhy.io/)
