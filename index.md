@@ -9,9 +9,9 @@ Welcome to my blog, new readers and old! I hope you find this blog helpful in yo
     <img src="chi2.png" class = "center" width="50%" height="50%"/>
 </div>
 
-<div class ="social-icon">
- [![""](icons8-github.svg)](https://github.com/hi-sushanta) [![""](icons8-linkedin.svg)](https://www.linkedin.com/in/sushanta-das-/) [![""](icon-threads.png)](https://www.threads.net/@hi_chiai) [![""](icon-blog.png)](https://hiwhy.io/)
-</div>
+
+[![""](icons8-github.svg)](https://github.com/hi-sushanta) [![""](icons8-linkedin.svg)](https://www.linkedin.com/in/sushanta-das-/) [![""](icon-threads.png)](https://www.threads.net/@hi_chiai) [![""](icon-blog.png)](https://hiwhy.io/)
+
 ## All Post
 
 1. [Master ***Matplotlib***: A ***Step-by-Step*** Guide for Beginners to Experts](https://hiwhy.io/matplotlib-complete-guide)
