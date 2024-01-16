@@ -10,7 +10,7 @@ Welcome to my blog, new readers and old! I hope you find this blog helpful in yo
 </div>
 
 <div class="social-icon" style="margin-left:40px; margin-right:40px; margin-top:50px; margin-bottom:50px;  display: flex; align-items: center; background:#F8F4EC; padding-left:50px; padding-right:40px; border-radius:16px; width: fit-content"> 
-    <h3 style="margin-left:10px; margin-right:15px; margin-top:0px; background-color: red;
+    <h3 style="font-size:24px; margin-left:10px; margin-right:15px; margin-top:0px; background-color: red;
     background-image: linear-gradient(45deg, #F56772 20%, #7280FF 80%);
     background-size: 100%;
     background-repeat: repeat;
