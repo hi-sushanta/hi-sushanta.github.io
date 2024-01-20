@@ -1,9 +1,13 @@
 ---
 title: Hi, I’m Sushanta  👋🏻
-excerpt: "Welcome to my blog, new readers and old! I hope you find this blog helpful in your journey of learning about deep learning and computer vision."
+excerpt: "**I like Training Neural Network** 🧠🤖**.** My particular area of interest is [**Generative Model Research**](https://openai.com/research/generative-models).
+
+Whether you're a new reader or a returning visitor, welcome to my blog! I hope you find this blog helpful in learning about **Artificial intelligence…**"
 ---
 
-Welcome to my blog, new readers and old! I hope you find this blog helpful in your journey of learning about deep learning and computer vision.
+**I like Training Neural Network** 🧠🤖**.** My particular area of interest is [**Generative Model Research**](https://openai.com/research/generative-models).
+
+Whether you're a new reader or a returning visitor, welcome to my blog! I hope you find this blog helpful in learning about **Artificial intelligence…**
 
 <div align = "center" style="margin-right: 5px; margin-left:5px; margin-top:10px; margin-bottom:10px;">
     <img src="chi2.png" class = "center" width="50%" height="50%"/>
