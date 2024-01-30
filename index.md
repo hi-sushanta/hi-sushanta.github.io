@@ -31,7 +31,7 @@ Whether you're a new reader or a returning visitor, welcome to my blog! I hope y
   </a>
   
 </div>
-
+<iframe src="https://embeds.beehiiv.com/1b74346f-b64b-4871-b8f4-5b2c34a63ac1?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin-left:35%; margin-right:10px; border-radius: 0px !important; background-color: transparent;"></iframe>
 ## All Post
 
 1. [Master ***Matplotlib***: A ***Step-by-Step*** Guide for Beginners to Experts](https://hiwhy.io/matplotlib-complete-guide)
