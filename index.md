@@ -7,6 +7,10 @@ Whether you're a new reader or a returning visitor, welcome to my blog! I aim to
 I like Training Neural Networks 🧠🤖. My particular area of interest is Generative Model Research. 
 Whether you're a new reader or a returning visitor, welcome to my blog! I aim to make complex AI concepts understandable and hope you find this blog helpful in learning about topics like neural networks, generative models, and other areas of artificial intelligence.
 
+<div align = "center" style="margin-right: 5px; margin-left:5px; margin-top:10px; margin-bottom:10px;">
+    <img src="chi2.png" class = "center" width="50%" height="50%"/>
+</div>
+
 
 <div class="social-icon" style="margin-right:10px; margin-top:50px; margin-bottom:3px;  display: flex; align-items: center;         background:#FFF;  border-radius:16px; width: fit-content;"> 
     <a href="https://github.com/hi-sushanta" style="margin-top:12px; margin-right:6px">
