@@ -1,7 +1,7 @@
 ---
 title: Hi, I’m Sushanta  👋🏻
-excerpt: "I like Training Neural Networks 🧠🤖. My particular area of interest is Generative Model Research.
- Whether you're a new reader or a returning visitor, welcome to my blog! I aim to make complex AI concepts understandable and hope you find this blog helpful in learning about topics like neural networks, generative models, and other areas of artificial intelligence."
+excerpt: "**I like Training Neural Network** 🧠🤖**.** My particular area of interest is [**Generative Model Research**](https://openai.com/research/generative-models). 
+Whether you're a new reader or a returning visitor, welcome to my blog! I hope you find this blog helpful in learning about **Artificial intelligence…**"
 ---
 
 **I like Training Neural Networks 🧠🤖.** My particular area of interest is Generative Model Research. 
