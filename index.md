@@ -59,4 +59,4 @@ Whether you're a new reader or a returning visitor, welcome to my blog! I aim to
 
 ## pet projects
 
-* [Build & compare ML models in  minutes, not hours! Fun Predict is the free, open-source Python lib that makes ML easy, even for beginners.](https://github.com/hi-sushanta/funpredict)
+* [Build & compare ML models in  minutes, not hours! ***Fun Predict*** is the free, open-source Python lib that makes ML easy, even for beginners.](https://github.com/hi-sushanta/funpredict)
