@@ -57,16 +57,6 @@ Whether you're a new reader or a returning visitor, welcome to my blog! I aim to
 20. [Pandas In Python — Complete Guide 2023](https://hiwhy.io/pandas-in-python-complete-guide)
 21. [Best NumPy Complete Guide – 2023](https://hiwhy.io/numpy-complete-guide)
 
-<div class="row" style="margin-top:12px; margin-right:6px; margin-left:6px; margin-bottom:10px;">
-  <div class="column">
-   <div class="card">
-            <a href="https://www.youtube.com/watch?v=bZQun8Y4L2A">
-              <div class="ccimg"><img src="chi.png"></div>
-            </a>
-            <div class="cdesc">State of GPT @ Microsoft Build 2023 (<a href="stateofgpt.pdf">slides</a>)</div>
-          </div> 
-  </div>
-  <div class="column">
-  <p>Hello2</p>
-  </div>
-</div>
+## pet projects
+
+* [Fun Predict🤖 is a free, open-source Python library that helps you build and compare machine learning models easily, without writing much code. It allows you to quickly and easily evaluate a variety of models without having to write a lot of code or tune hyperparameters.](https://github.com/hi-sushanta/funpredict)
