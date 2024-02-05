@@ -60,3 +60,4 @@ Whether you're a new reader or a returning visitor, welcome to my blog! I aim to
 ## pet projects
 * [***DreamGen***: a project creating images so amazing, they'll blow your mind!](https://github.com/hi-sushanta/DreamGen)
 * [Build & compare ML models in  minutes, not hours! ***Fun Predict*** is the free, open-source Python lib that makes ML easy, even for beginners.](https://github.com/hi-sushanta/funpredict)
+* [Unleash the power of GANs with ***Magic!*** 🪄 This Python library simplifies access to popular GAN architectures & streamlines your experimentation](https://github.com/hi-sushanta/magic)
