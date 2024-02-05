@@ -59,4 +59,4 @@ Whether you're a new reader or a returning visitor, welcome to my blog! I aim to
 
 ## pet projects
 
-* [Fun Predict🤖 is a free, open-source Python library that helps you build and compare machine learning models easily, without writing much code. It allows you to quickly and easily evaluate a variety of models without having to write a lot of code or tune hyperparameters.](https://github.com/hi-sushanta/funpredict)
+* [Build & compare ML models in  minutes, not hours! Fun Predict is the free, open-source Python lib that makes ML easy, even for beginners.](https://github.com/hi-sushanta/funpredict)
