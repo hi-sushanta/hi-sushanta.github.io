@@ -58,5 +58,5 @@ Whether you're a new reader or a returning visitor, welcome to my blog! I aim to
 21. [Best NumPy Complete Guide – 2023](https://hiwhy.io/numpy-complete-guide)
 
 ## pet projects
-
+* [***DreamGen***: a project creating images so amazing, they'll blow your mind!](https://github.com/hi-sushanta/DreamGen)
 * [Build & compare ML models in  minutes, not hours! ***Fun Predict*** is the free, open-source Python lib that makes ML easy, even for beginners.](https://github.com/hi-sushanta/funpredict)
