@@ -57,7 +57,7 @@ Whether you're a new reader or a returning visitor, welcome to my blog! I aim to
 20. [Pandas In Python — Complete Guide 2023](https://hiwhy.io/pandas-in-python-complete-guide)
 21. [Best NumPy Complete Guide – 2023](https://hiwhy.io/numpy-complete-guide)
 
-<div class="row">
+<div class="row" style="margin-top:12px; margin-right:6px; margin-left:6px; margin-bottom:10px;">
   <div class="column">
    <p>Hello1</p>  
   </div>
