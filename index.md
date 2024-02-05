@@ -59,7 +59,12 @@ Whether you're a new reader or a returning visitor, welcome to my blog! I aim to
 
 <div class="row" style="margin-top:12px; margin-right:6px; margin-left:6px; margin-bottom:10px;">
   <div class="column">
-   <p>Hello1</p>  
+   <div class="card">
+            <a href="https://www.youtube.com/watch?v=bZQun8Y4L2A">
+              <div class="ccimg"><img src="assets/stateofgpt.jpeg"></div>
+            </a>
+            <div class="cdesc">State of GPT @ Microsoft Build 2023 (<a href="stateofgpt.pdf">slides</a>)</div>
+          </div> 
   </div>
   <div class="column">
   <p>Hello2</p>
