@@ -61,7 +61,7 @@ Whether you're a new reader or a returning visitor, welcome to my blog! I aim to
   <div class="column">
    <div class="card">
             <a href="https://www.youtube.com/watch?v=bZQun8Y4L2A">
-              <div class="ccimg"><img src="assets/stateofgpt.jpeg"></div>
+              <div class="ccimg"><img src="chi.png"></div>
             </a>
             <div class="cdesc">State of GPT @ Microsoft Build 2023 (<a href="stateofgpt.pdf">slides</a>)</div>
           </div> 
