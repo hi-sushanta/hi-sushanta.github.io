@@ -58,6 +58,10 @@ Whether you're a new reader or a returning visitor, welcome to my blog! I aim to
 21. [Best NumPy Complete Guide – 2023](https://hiwhy.io/numpy-complete-guide)
 
 <div class="row">
-  <div class="column"></div>
-  <div class="column"></div>
+  <div class="column">
+   <p>Hello1</p>  
+  </div>
+  <div class="column">
+  <p>Hello2</p>
+  </div>
 </div>
