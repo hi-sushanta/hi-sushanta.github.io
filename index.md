@@ -56,3 +56,8 @@ Whether you're a new reader or a returning visitor, welcome to my blog! I aim to
 19. [Complete Neural Network Regression In Tensorflow — Guide 2023](https://hiwhy.io/neural-network-regression-in-tensorflow-guide)
 20. [Pandas In Python — Complete Guide 2023](https://hiwhy.io/pandas-in-python-complete-guide)
 21. [Best NumPy Complete Guide – 2023](https://hiwhy.io/numpy-complete-guide)
+
+<div class="row">
+  <div class="column"></div>
+  <div class="column"></div>
+</div>
