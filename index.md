@@ -3,7 +3,7 @@ title: Hi, I’m Sushanta  👋🏻
 excerpt: "I am an AI researcher living in India. I like Training Neural Networks 🧠🤖."
 ---
 
-I am an AI researcher living in India. I like Training Neural Networks 🧠🤖.
+I am an AI researcher living in India. I like Training Neural Networks 🧠🤖
 
 <div align = "center" style="margin-right: 5px; margin-left:5px; margin-top:10px; margin-bottom:10px;">
     <img src="chi2.png" class = "center" width="50%" height="50%"/>
