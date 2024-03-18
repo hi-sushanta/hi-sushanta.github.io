@@ -1,11 +1,9 @@
 ---
 title: Hi, I’m Sushanta  👋🏻
-excerpt: "I like Training Neural Networks 🧠🤖. My particular area of interest is Generative Model Research. 
-Whether you're a new reader or a returning visitor, welcome to my blog! I aim to make complex AI concepts understandable and hope you find this blog helpful in learning about topics like neural networks, generative models, and other areas of artificial intelligence."
+excerpt: "I am an AI researcher living in India. I like Training Neural Networks 🧠🤖."
 ---
 
-I like Training Neural Networks 🧠🤖. My particular area of interest is Generative Model Research. 
-Whether you're a new reader or a returning visitor, welcome to my blog! I aim to make complex AI concepts understandable and hope you find this blog helpful in learning about topics like neural networks, generative models, and other areas of artificial intelligence.
+I am an AI researcher living in India. I like Training Neural Networks 🧠🤖.
 
 <div align = "center" style="margin-right: 5px; margin-left:5px; margin-top:10px; margin-bottom:10px;">
     <img src="chi2.png" class = "center" width="50%" height="50%"/>
